@@ -5,7 +5,7 @@ Version 0.1.4
 ### About bot
 
 This project is the final assignment of Python courses.
-This bot is designed to write clients to the table
+This bot is designed to record customers in a table and then called by their employee
 
 In order to start working with the bot, you need to send him a command / start and follow his instructions
 
@@ -18,6 +18,13 @@ This bot supports the following commands:
     + /addme - command for command to write user
   + /del - delete user from list
     + /delme - /addme - command for command to write user
+    
+
+The bot works according to the following principle:
+
+When adding a user, it will enter data into a text file "datatable"
+
+When a user is deleted, the bot sends the message "this user has unsubscribed" to a text file "deltable"
     
 ### About version
 
