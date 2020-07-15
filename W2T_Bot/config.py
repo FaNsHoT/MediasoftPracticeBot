@@ -1,4 +1,4 @@
-TG_TOKEN = "1134226693:AAHAGoyWKQiX0H0lW9PLi6H9K14FE8OprYE"
+TG_TOKEN = ""
 inputfile = "datatable"
 inputfile = "deltable"
 datatable = []
