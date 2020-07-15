@@ -1,4 +1,4 @@
-# Write to table bot
+# Write to table bot (W2T_Bot)
 ------------
 Version 0.1.4
 
